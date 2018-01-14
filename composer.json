@@ -1,0 +1,13 @@
+{
+  "name": "Module.Leaf.Uppy",
+  "description": "Uppy leaf",
+  "autoload": {
+    "psr-4": {
+      "Rojr\\Leaf\\Uppy\\": "src/"
+    }
+  },
+  "require": {
+    "rhubarbphp/module-leaf": "^1.1.2",
+    "rhubarbphp/module-leaf-common-controls": "^1.0.0"
+  }
+}
