@@ -1,5 +1,5 @@
 {
-  "name": "Module.Leaf.Uppy",
+  "name": "rojr/module-leaf-uppy",
   "description": "Uppy leaf",
   "autoload": {
     "psr-4": {
